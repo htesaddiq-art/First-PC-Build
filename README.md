@@ -25,9 +25,9 @@ This README tracks the parts, costs, decisions, assembly progress, and testing. 
 
 | Component | Selection / model | Status | Personal cost | Notes |
 |---|---|---|---:|---|
-| Motherboard | MSI B850M Gaming Plus WiFi | Purchased | £115.00 | Purchased |
-| Case | Phanteks XT M3 | Received | £0.00 | Paid for by my mum |
-| Bottom fans | TZMRIT reverse-flow fans | Purchased | Unknown | Planned for bottom intake; confirm exact model and price |
+| Motherboard | MSI B850M Gaming Plus WiFi | Recoieved | £115.00 | Purchased |
+| Case | Phanteks XT M3 | Received | £49.96 | Paid for by external sources |
+| Bottom fans | TZMRIT Interstellar-V2 reverse-flow fans | Received | £20.31 | Planned for bottom intake |
 | Power supply | Lian Li RB 650W | Planned | £54.95 planned | Confirm exact model, connectors, and suitability before purchase |
 | Graphics card | NVIDIA GeForce RTX 3060 Ti | Selected | Not purchased / price unknown | Exact card model and price to be recorded |
 | CPU | Not yet confirmed | To confirm | Unknown | Choose and check compatibility before purchase |
