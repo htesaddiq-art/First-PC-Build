@@ -14,21 +14,19 @@ This README tracks the parts, costs, decisions, assembly progress, and testing. 
 
 | Budget item | Amount |
 |---|---:|
-| Personal budget | £800.00 |
-| Confirmed personal spend | £115.00 + TZMRIT fan cost (unknown) |
-| Remaining budget | Not yet confirmed |
-| Case | £0.00 personal cost — paid for by my mum |
-
-**Budget note:** Add the exact price of the TZMRIT fans and any other personal purchases before calculating the remaining budget.
+| Personal budget | £800.00-£1000.00|
+| Confirmed personal spend | £135.31 |
+| Remaining budget | 664.69 |
+| Case | £0.00 personal cost — paid for |
 
 ## 3. Parts List
 
 | Component | Selection / model | Status | Personal cost | Notes |
 |---|---|---|---:|---|
 | Motherboard | MSI B850M Gaming Plus WiFi | Recoieved | £115.00 | Purchased |
-| Case | Phanteks XT M3 | Received | £49.96 | Paid for by external sources |
+| Case | Phanteks XT M3 | Received | £49.96 | Paid for by external sources does not decrease budget |
 | Bottom fans | TZMRIT Interstellar-V2 reverse-flow fans | Received | £20.31 | Planned for bottom intake |
-| Power supply | Lian Li RB 650W | Planned | £54.95 planned | Confirm exact model, connectors, and suitability before purchase |
+| Power supply | MSI MAG A650GL 650W | Planned | £65.54 planned | changed to this last minute |
 | Graphics card | NVIDIA GeForce RTX 3060 Ti | Selected | Not purchased / price unknown | Exact card model and price to be recorded |
 | CPU | Not yet confirmed | To confirm | Unknown | Choose and check compatibility before purchase |
 | RAM | 16GB DDR5 | Planned | Unknown | Start with 16GB; consider upgrading later |
