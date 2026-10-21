@@ -51,7 +51,7 @@ This is the intended layout, not a record of completed installation. Confirm fan
 - [x] Receive Phanteks XT M3 case
 - [x] Purchase TZMRIT bottom fans
 - [x] Select RTX 3060 Ti as the graphics card target
-- [ ] Record exact TZMRIT fan cost
+- [x] Record exact TZMRIT fan cost
 - [ ] Confirm CPU choice
 - [ ] Purchase power supply
 - [ ] Choose and purchase RAM
